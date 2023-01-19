@@ -40,6 +40,10 @@ const resetCharacters = () => {
               <span className="text-grey">Especie: </span>
               <span>{character.species}</span>
               </p>
+              <p>
+              <span className="text-grey">Resultados: </span>
+              <span>{character.gender}</span>
+              </p>
             </div>
           </div>
         ))}
