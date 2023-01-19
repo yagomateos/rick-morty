@@ -41,7 +41,7 @@ const resetCharacters = () => {
               <span>{character.species}</span>
               </p>
               <p>
-              <span className="text-grey">Resultados: </span>
+              <span className="text-grey">Género: </span>
               <span>{character.gender}</span>
               </p>
             </div>
