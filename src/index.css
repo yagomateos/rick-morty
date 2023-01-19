@@ -132,6 +132,8 @@ body {
   color: white;
 }
 
+
+
 @media (max-width: 768px) {
   .characters {
     padding: 0 20px;
@@ -153,3 +155,13 @@ body {
     width: 150px;
   }
 }
+
+@media (max-width: 450px) {
+
+  img.img-home.mobile {
+    position: relative;
+    left: -120px;
+} 
+    
+    
+ }
